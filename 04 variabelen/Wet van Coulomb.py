@@ -5,6 +5,4 @@ k = 8.99 * (10 ** 13)
 
 coulombkracht = k * ((Q1*Q2) / (r ** 2))
 
-uitvoer = coulombkracht
-
-print(uitvoer)
+print(coulombkracht)
